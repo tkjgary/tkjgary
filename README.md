@@ -3,11 +3,12 @@
 </i> :mortar_board: Studied Mechanical Engineering at Universiti Teknologi Malaysia (UTM).<br/>
 
 # :spiral_notepad: Projects
-- Octave
+Octave
   - <b>[Beam Load Calculator](https://github.com/tkjgary/Beam-Load-Calculator) </b>
   - <b>[Maximum Enclosed Land Area for Zoo Animal Enclosure Design](https://github.com/tkjgary/Maximizing-Enclosed-Land-Area-for-Zoo-Animal-Enclosure-Design) </b>
-- C
-  - <b>[Generalized Two Variable Parameter Tool](https://github.com/tkjgary/Generalized-Two-Variable-Parameter-Tool) </b>
+
+C
+- <b>[Generalized Two Variable Parameter Tool](https://github.com/tkjgary/Generalized-Two-Variable-Parameter-Tool) </b>
 
 
 # 💻 Tech Stack
